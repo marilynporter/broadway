@@ -10,10 +10,32 @@ h2 {
   font-family: Helvetica;
   font-size: 14px;
 }
-title {
+h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+  }
+#image {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
+}
+h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+#broadway {
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+a:link {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+
 }
